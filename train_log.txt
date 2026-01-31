@@ -1,0 +1,104 @@
+[LOG START] 出力ログ: C:\Users\hideb\Desktop\app_development_data\train_log.txt
+
+[Epoch 00] D_loss(mean): 0.267 | G_loss(mean): 4.193
+save: C:\Users\hideb\Desktop\app_development_data\epoch_000.png
+[Epoch 01] D_loss(mean): 0.155 | G_loss(mean): 5.047
+save: C:\Users\hideb\Desktop\app_development_data\epoch_001.png
+[Epoch 02] D_loss(mean): 0.145 | G_loss(mean): 5.297
+save: C:\Users\hideb\Desktop\app_development_data\epoch_002.png
+[Epoch 03] D_loss(mean): 0.130 | G_loss(mean): 5.453
+save: C:\Users\hideb\Desktop\app_development_data\epoch_003.png
+[Epoch 04] D_loss(mean): 0.103 | G_loss(mean): 5.781
+save: C:\Users\hideb\Desktop\app_development_data\epoch_004.png
+[Epoch 05] D_loss(mean): 0.110 | G_loss(mean): 5.877
+save: C:\Users\hideb\Desktop\app_development_data\epoch_005.png
+[Epoch 06] D_loss(mean): 0.125 | G_loss(mean): 5.156
+save: C:\Users\hideb\Desktop\app_development_data\epoch_006.png
+[Epoch 07] D_loss(mean): 0.110 | G_loss(mean): 5.407
+save: C:\Users\hideb\Desktop\app_development_data\epoch_007.png
+[Epoch 08] D_loss(mean): 0.101 | G_loss(mean): 5.468
+save: C:\Users\hideb\Desktop\app_development_data\epoch_008.png
+[Epoch 09] D_loss(mean): 0.123 | G_loss(mean): 5.036
+save: C:\Users\hideb\Desktop\app_development_data\epoch_009.png
+[Epoch 10] D_loss(mean): 0.124 | G_loss(mean): 4.884
+save: C:\Users\hideb\Desktop\app_development_data\epoch_010.png
+[Epoch 11] D_loss(mean): 0.121 | G_loss(mean): 4.973
+save: C:\Users\hideb\Desktop\app_development_data\epoch_011.png
+[Epoch 12] D_loss(mean): 0.136 | G_loss(mean): 4.395
+save: C:\Users\hideb\Desktop\app_development_data\epoch_012.png
+[Epoch 13] D_loss(mean): 0.135 | G_loss(mean): 4.609
+save: C:\Users\hideb\Desktop\app_development_data\epoch_013.png
+[Epoch 14] D_loss(mean): 0.129 | G_loss(mean): 4.512
+save: C:\Users\hideb\Desktop\app_development_data\epoch_014.png
+[Epoch 15] D_loss(mean): 0.132 | G_loss(mean): 4.503
+save: C:\Users\hideb\Desktop\app_development_data\epoch_015.png
+[Epoch 16] D_loss(mean): 0.148 | G_loss(mean): 4.453
+save: C:\Users\hideb\Desktop\app_development_data\epoch_016.png
+[Epoch 17] D_loss(mean): 0.136 | G_loss(mean): 4.387
+save: C:\Users\hideb\Desktop\app_development_data\epoch_017.png
+[Epoch 18] D_loss(mean): 0.140 | G_loss(mean): 4.316
+save: C:\Users\hideb\Desktop\app_development_data\epoch_018.png
+[Epoch 19] D_loss(mean): 0.139 | G_loss(mean): 4.253
+save: C:\Users\hideb\Desktop\app_development_data\epoch_019.png
+[Epoch 20] D_loss(mean): 0.129 | G_loss(mean): 4.430
+save: C:\Users\hideb\Desktop\app_development_data\epoch_020.png
+[Epoch 21] D_loss(mean): 0.142 | G_loss(mean): 4.163
+save: C:\Users\hideb\Desktop\app_development_data\epoch_021.png
+[Epoch 22] D_loss(mean): 0.157 | G_loss(mean): 4.131
+save: C:\Users\hideb\Desktop\app_development_data\epoch_022.png
+[Epoch 23] D_loss(mean): 0.118 | G_loss(mean): 4.266
+save: C:\Users\hideb\Desktop\app_development_data\epoch_023.png
+[Epoch 24] D_loss(mean): 0.174 | G_loss(mean): 4.095
+save: C:\Users\hideb\Desktop\app_development_data\epoch_024.png
+[Epoch 25] D_loss(mean): 0.139 | G_loss(mean): 4.134
+save: C:\Users\hideb\Desktop\app_development_data\epoch_025.png
+[Epoch 26] D_loss(mean): 0.143 | G_loss(mean): 4.097
+save: C:\Users\hideb\Desktop\app_development_data\epoch_026.png
+[Epoch 27] D_loss(mean): 0.166 | G_loss(mean): 3.909
+save: C:\Users\hideb\Desktop\app_development_data\epoch_027.png
+[Epoch 28] D_loss(mean): 0.168 | G_loss(mean): 3.833
+save: C:\Users\hideb\Desktop\app_development_data\epoch_028.png
+[Epoch 29] D_loss(mean): 0.166 | G_loss(mean): 3.615
+save: C:\Users\hideb\Desktop\app_development_data\epoch_029.png
+[Epoch 30] D_loss(mean): 0.194 | G_loss(mean): 3.519
+save: C:\Users\hideb\Desktop\app_development_data\epoch_030.png
+[Epoch 31] D_loss(mean): 0.193 | G_loss(mean): 3.383
+save: C:\Users\hideb\Desktop\app_development_data\epoch_031.png
+[Epoch 32] D_loss(mean): 0.205 | G_loss(mean): 3.343
+save: C:\Users\hideb\Desktop\app_development_data\epoch_032.png
+[Epoch 33] D_loss(mean): 0.164 | G_loss(mean): 3.664
+save: C:\Users\hideb\Desktop\app_development_data\epoch_033.png
+[Epoch 34] D_loss(mean): 0.201 | G_loss(mean): 3.485
+save: C:\Users\hideb\Desktop\app_development_data\epoch_034.png
+[Epoch 35] D_loss(mean): 0.185 | G_loss(mean): 3.303
+save: C:\Users\hideb\Desktop\app_development_data\epoch_035.png
+[Epoch 36] D_loss(mean): 0.188 | G_loss(mean): 3.367
+save: C:\Users\hideb\Desktop\app_development_data\epoch_036.png
+[Epoch 37] D_loss(mean): 0.187 | G_loss(mean): 3.516
+save: C:\Users\hideb\Desktop\app_development_data\epoch_037.png
+[Epoch 38] D_loss(mean): 0.167 | G_loss(mean): 3.620
+save: C:\Users\hideb\Desktop\app_development_data\epoch_038.png
+[Epoch 39] D_loss(mean): 0.179 | G_loss(mean): 3.704
+save: C:\Users\hideb\Desktop\app_development_data\epoch_039.png
+[Epoch 40] D_loss(mean): 0.190 | G_loss(mean): 3.443
+save: C:\Users\hideb\Desktop\app_development_data\epoch_040.png
+[Epoch 41] D_loss(mean): 0.184 | G_loss(mean): 3.435
+save: C:\Users\hideb\Desktop\app_development_data\epoch_041.png
+[Epoch 42] D_loss(mean): 0.164 | G_loss(mean): 3.674
+save: C:\Users\hideb\Desktop\app_development_data\epoch_042.png
+[Epoch 43] D_loss(mean): 0.176 | G_loss(mean): 3.640
+save: C:\Users\hideb\Desktop\app_development_data\epoch_043.png
+[Epoch 44] D_loss(mean): 0.182 | G_loss(mean): 3.502
+save: C:\Users\hideb\Desktop\app_development_data\epoch_044.png
+[Epoch 45] D_loss(mean): 0.169 | G_loss(mean): 3.652
+save: C:\Users\hideb\Desktop\app_development_data\epoch_045.png
+[Epoch 46] D_loss(mean): 0.162 | G_loss(mean): 3.791
+save: C:\Users\hideb\Desktop\app_development_data\epoch_046.png
+[Epoch 47] D_loss(mean): 0.256 | G_loss(mean): 3.508
+save: C:\Users\hideb\Desktop\app_development_data\epoch_047.png
+[Epoch 48] D_loss(mean): 0.172 | G_loss(mean): 3.596
+save: C:\Users\hideb\Desktop\app_development_data\epoch_048.png
+[Epoch 49] D_loss(mean): 0.177 | G_loss(mean): 3.686
+save: C:\Users\hideb\Desktop\app_development_data\epoch_049.png
+
+ 学習完了
